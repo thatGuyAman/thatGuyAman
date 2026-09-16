@@ -15,6 +15,7 @@
 
 ### AlumioDTU
 <a href="https://www.alumiodtu.tech/" target="blank">Website Link</a>
+<br>
 Built with ❤️ for the DTU community.
 
 If you've ever felt lost trying to navigate your career without guidance - this platform is for you.  
