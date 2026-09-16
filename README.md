@@ -14,7 +14,7 @@
 - I have completed certifications in Supervised Machine Learning, Advanced Learning Algorithms, and Learn RAG.
 
 ### AlumioDTU
-<a href="https://www.alumiodtu.tech/" target="blank">
+<a href="https://www.alumiodtu.tech/" target="blank">Website Link</a>
 Built with ❤️ for the DTU community.
 
 If you've ever felt lost trying to navigate your career without guidance - this platform is for you.  
